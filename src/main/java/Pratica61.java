@@ -1,3 +1,8 @@
+
+import java.util.Set;
+import utfpr.ct.dainf.if62c.pratica.Jogador;
+import utfpr.ct.dainf.if62c.pratica.Time;
+
 /**
  * UTFPR - Universidade Tecnológica Federal do Paraná
  * DAINF - Departamento Acadêmico de Informática
